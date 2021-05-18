@@ -1,0 +1,41 @@
+h1{
+    color:#4a3263
+}
+h2{
+    color:#fe5dab
+
+}
+h3{
+    color:#662375
+}
+.intro{
+    background-color:#ffc0cb;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.chameleon{
+    background-color: #B6D0E2;
+    position:relative;
+    
+}
+.facts1{
+    background-color:#be93d3;
+    position:absolute;
+    top:50%;
+    left:50%;
+
+    transform:translate(-50%,-50%)
+}
+.panda{
+    background-color: #B6D0E2;
+}
+.facts2{
+    background-color: #be93d3;
+}
+.pictures{
+    background-color: #5f9ea0;
+    align-items: center;
+    justify-content: center;
+}
